@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_BUbo8HR9EeytbZa087KPlA" name="BOOKINGF" id="_BUbB4HR9EeytbZa087KPlA" dataPackage="_BUbo8XR9EeytbZa087KPlA" Server="Localhost 127.0.0.1" FilePath="E:/DATA_PR/BI/ETL/beforefinale.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_BUbo8XR9EeytbZa087KPlA" name="default" dataManager="_BUbo8HR9EeytbZa087KPlA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_BUbo8nR9EeytbZa087KPlA" id="_2PIIcHR8EeytbZa087KPlA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo9HR9EeytbZa087KPlA" label="hotel_name" length="43" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo9XR9EeytbZa087KPlA" label="ville" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo9nR9EeytbZa087KPlA" label="review" length="1925" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo93R9EeytbZa087KPlA" label="type_rev" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo-HR9EeytbZa087KPlA" label="stay_date" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo-XR9EeytbZa087KPlA" label="reviewer_rate" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo-nR9EeytbZa087KPlA" label="reviewer_name" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUbo-3R9EeytbZa087KPlA" label="reviewer_country" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
