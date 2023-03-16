@@ -1,6 +1,12 @@
-Welcome to the HOTELS-E-REPUTATION-IN-MOROCCO-PYTHON-POWER-BI- !
+# Welcome to the HOTELS-E-REPUTATION-IN-MOROCCO !
+
+<img src="https://user-images.githubusercontent.com/86720032/225755242-ea1ca559-55e0-444b-86f7-1d4b3cf0d8d3.jpg" >
+
+
 This project's task is to create a final report showing the reputation of hotels in Morocco, starting by scrapping data from different sources ( trip advisor, booking , Twitter ) , data preparing with python and Talend to finally store this data in a data warehouse (Mysql) and create reports with Power Bi . 
-# Data Scrapping 
+
+# Data Scrapping !
+
 <img src="https://user-images.githubusercontent.com/86720032/221417045-bfd6069a-529f-4f52-ae48-8987659fe0bf.png" width=30% height=40%>
 
 ## Booking scraping 
